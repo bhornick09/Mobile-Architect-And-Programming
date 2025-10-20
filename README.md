@@ -25,3 +25,11 @@ Consider the full app design and development process from initial planning to fi
 **In what specific component of your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?**
 
 * I believe creating the SQL queries and the Java coding overall demonstrates my prior knowledge in development and database interactions. My prior knowledge in Java allowed for easy data manipulation in the app once I figured out the unfamiliar syntax and structure of Android applications. My prior experience with SQL allowed me to quickly create queries to access the information I needed from the app's database. The combination of my SQL and Java skills allowed for database integration to the app, like updating the weight-journal table and creating a functional login page.
+
+---
+**Screenshots**
+<img width="395" height="879" alt="Register" src="https://github.com/user-attachments/assets/f7189b17-63ef-4868-a990-de26386ec51c" />
+<img width="399" height="885" alt="Login Screen" src="https://github.com/user-attachments/assets/61e6c555-b409-43f8-b760-12c6bc69cff0" />
+<img width="395" height="866" alt="journal" src="https://github.com/user-attachments/assets/798d2692-15e4-40b5-aa2e-cdb483565053" />
+
+
