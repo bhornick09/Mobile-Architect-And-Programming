@@ -28,8 +28,10 @@ Consider the full app design and development process from initial planning to fi
 
 ---
 **Screenshots**
-* <img width="300" height="700" alt="Login Screen" src="https://github.com/user-attachments/assets/61e6c555-b409-43f8-b760-12c6bc69cff0" />
-<img width="300" height="700" alt="Register" src="https://github.com/user-attachments/assets/f7189b17-63ef-4868-a990-de26386ec51c" />
-<img width="300" height="700" alt="journal" src="https://github.com/user-attachments/assets/798d2692-15e4-40b5-aa2e-cdb483565053" />
+<p>
+  <img width="300" height="700" alt="Login Screen" src="https://github.com/user-attachments/assets/61e6c555-b409-43f8-b760-12c6bc69cff0" />
+  <img width="300" height="700" alt="Register" src="https://github.com/user-attachments/assets/f7189b17-63ef-4868-a990-de26386ec51c" />
+  <img width="300" height="700" alt="journal" src="https://github.com/user-attachments/assets/798d2692-15e4-40b5-aa2e-cdb483565053" />
+</p>
 
 
